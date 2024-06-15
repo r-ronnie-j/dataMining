@@ -1,0 +1,305 @@
+Question,answer,answer,answer,answer,correct,marks,description
+Which structure will perform better during earthquake?,Statically determinate and indeterminate,Depends upon magnitude of earthquake,Statically indeterminate,Statically determinate,2,1,
+Which of the following structural loads are not applied commonly to a building?,Environmental load,Live load,Dead load,Rain load,3,1,
+The deformation per unit length is called,tensile stress,compressive Stress,shear stress,strain,3,1,
+The property of a material by which it can be beaten or rolled into thin plates is called,Elasticity,Plasticity,Ductility,Malleability,3,1,
+The compression test is carried on,ductile,brittle,malleable,plastic,1,1,
+The moment of inertia of a body is always minimum with respect to its,Base,Centroidal axis,Vertical axis,Horizontal axis,1,1,
+Moment of inertia is the,Second moment of area,Second moment of mass,Second moment of force,All of these,3,1,
+"Sagging, the bending moment occurs at the",At supports,Mid span,Point of contra flexure,Point of emergence,1,1,
+Why is base plate provided in short roof trusses?,As provision for temperature related expansion/contraction,For rigidity,To transmit load effectively,For stability,0,1,
+Which law is also called as the elasticity law?,Bernoulli’s law,Hooke’s law,Stress law,Poisson’s law,1,1,
+"Whenever a material is loaded within elastic limit, stress is",equal to,directly Proportional to,inversely Proportional to,None of the above,1,1,
+The ratio of linear stress to the linear strain is called,modulus of rigidity,modulus of elasticity,bulk modulus,Poisson’s ratio,1,1,
+The unit of modulus of elasticity is same as those of,"stress, strain and pressure","stress, force and modulus of rigidity","strain, force and pressure","stress, Pressure and modulus of rigidity",3,1,
+"When a change in length takes place, the strain is known as",linear strain,lateral strain,volumetric strain,shear strain,0,1,
+"The change in length due to a tensile or compressive force acting on a body is given by
+P",,,,"E AE P.l.A Pl
+where, P = Tensile or compressive force acting on the body,
+l = Original length of the body, A = Cross-sectional area of the body, and
+E = Young’s modulus for the material of the body.
+526 A Quick Reference Book for CIVIL ENGINEERING LICENSING EXAMINATION",1,1,
+"If we use link support in a structural system, then how many unknowns would we have?",4,2,0,1,3,1,
+Young’s modulus may be defined as the ratio of,linear stress to lateral strain,lateral strain to linear strain,linear stress to linear strain,shear stress to shear strain,2,1,
+Modulus of rigidity may be defined as the ratio of,linear stress to lateral strain,lateral strain to linear strain,linear stress to linear strain,shear stress to shear strain,3,1,
+"What will be the variation in BMD for the diagram?
+[Assume l = 2m]",Rectangular,Trapezoidal,Triangular,Square,2,1,
+Two bars of different materials and same size are subjected to the same tensile force,2:5,5:2,4:3,3:4,1,1,
+"When a bar of length l and diameter d is rigidly fixed at the upper end and hanging freely, then the
+total elongation produced in the bar due to its own weight is
+wl wl3 wl2 wl4",,,,"2E 2E 2E 2E
+where w = Weight per unit volume of the bar.",2,1,
+The deformation of a bar under its own weight is,equal to,half,double,quadruple,1,1,
+The elongation of a conical bar under its own weight is,equal to,half,one-third,two-third,2,1,
+"The length of a conical bar is l, diameter of base is d and weight per unit volume is w",,,,2E 4E 6E 8E,2,1,
+Strain rosetters are used to,measure shear strain,measure linear strain,measure volumetric strain,relieve strain,1,1,
+A bar of length L metres extends by l mm under a tensile force of P,,0.1,0.01,"0.001
+L L L L",3,1,
+"The extension of a circular bar tapering uniformly from diameter d at one end to diameter d at the
+1 2
+other end, and subjected to an axial pull of P is given by
+4PE 4ld2 4 Pl 4PIE",l =,l =,l =,"l =
+ld2 PE Ed d d d
+1 2 1 2",2,1,
+"The extension of a circular bar tapering uniformly from diameter d at one end to diameter d at the
+1 2
+other end, and subjected to an axial pull of P is",equal to,less than,greater than,none of above,0,1,
+The tensile test is carried on,ductile,brittle,malleable,plastic,0,1,
+The maximum stress produced in a bar of the tapering section is at,smaller end,larger end,middle,anywhere,0,1,
+Modular ratio of the two materials is the ratio of,linear stress to linear strain,shear stress to shear strain,their modulus of elasticities,their modulus of rigidities,2,1,
+The shear modulus of most materials with respect to the modulus of elasticity is,equal to half,less than half,more than half,"none of these
+Structural Mechanics",1,1,
+"A bolt is made to pass through a tube and both of them are tightly fitted with the help of washers and
+nuts",bolt and tube are under tension,bolt and tube are under compression,bolt is under compression and tube is under tension,bolt is under tension and tube is under compression,3,1,
+"When a bar is subjected to a change of temperature and its deformation is prevented, the stress
+induced in the bar is",tensile stress,compressive stress,shear stress,thermal stress,3,1,
+A steel bar of 5 mm is heated from 15°C to 40°C and it is free to expand,no stress,shear stress,tensile stress,compressive stress,0,1,
+"When a bar is cooled to –5°C, it will develop",no stress,shear stress,tensile stress,compressive stress,2,1,
+"A bar of copper and steel form a composite system, which is heated to a temperature of 40°C",tensile,compressive,shear,zero,1,1,
+The thermal stress in a bar is,directly,indirectly,no change,any of these,0,1,
+The thermal stress,depends,does not depend,both,can’t say,1,1,
+The relation between slope and maximum bending moment is,Directly proportion,Inversely proportion,Relative proportion,Mutual incidence,1,1,
+The thermal or temperature stress is a function of,increase in temperature,modulus of elasticity,coefficient of linear expansion,all of these,3,1,
+The ratio of the largest load in a test to the original cross-sectional area of the test piece is called,elastic limit,yield stress,ultimate stress,breaking stress,2,1,
+Which of the following statement is correct?,The stress is the pressure per unit are,The strain is expressed in mm.,Hook’s law holds good up to the breaking point.,Stress is directly proportional to strain within elastic limit.,3,1,
+The deformation of the bar per unit length in the direction of the force is known as,linear strain,lateral strain,volumetric strain,shear strain,0,1,
+"Every direct stress is always accompanied by a strain in its own direction and an opposite kind of
+strain in every direction, at right angles to it",linear strain,lateral strain,volumetric strain,shear strain,1,1,
+The ratio of the lateral strain to the linear strain is called,modulus of elasticity,modulus of rigidity,bulk modulus,Poisson’s ratio,3,1,
+The tensile test is carried on,ductile,brittle,malleable,plastic,0,1,
+"A steel bar 2 m long, 20 mm wide and 10 mm thick is subjected to a pull of 2 kN",equal to,less than,greater than,any of these,0,1,
+*The Poisson’s ratio for steel varies from,0.23 to0.27,0.25 to 0.33,0.31 to 0.34,"0.32 to 0.42
+528 A Quick Reference Book for CIVIL ENGINEERING LICENSING EXAMINATION",1,1,
+The Poisson’s ratio for cast iron varies from,0.23 to 0.27,0.25 to 0.33,0.31 to 0.34,0.32 to 0.42,0,1,
+"When a bar of length l, width b and thickness t is subjected to a pull of P, its","length, width and thickness increases","length, width and thickness decreases","length increases, width and thickness decreases","length decreases, width and thickness increases",0,1,
+The ratio of change in volume to the original volume is called,linear strain,lateral strain,volumetric strain,Poisson’s ratio,0,1,
+"The bending equation is
+M  E T  C M  E T  Cq",= =,= =,= =,"= =
+I y R J r L y L R r J L",0,1,
+The volumetric strain is the ratio of the,original thickness to the change in thickness,change in thickness to the original thickness,original volume to the change in volume,change in volume to the original volume,3,1,
+The product of the tangential force acting on the shaft and its distance from the axis of shaft (i,bending moment,twisting moment,torsional rigidity,flexural rigidity,1,1,
+"When a shaft is subjected to a twisting moment, every cross-section of the shaft will be under",tensile stress,compressive stress,shear stress,bending stress,2,1,
+"When a body is subjected to three mutually perpendicular stresses, of equal intensity, the ratio of
+direct stress to the corresponding volumetric strain is known as",Young’s modulus,modulus of rigidity,bulk modulus,Poisson’s ratio,2,1,
+"The relation between Young’s modulus (E) and bulk modulus (K) is given by
+3m – 2 mE 3(m–2) mE",K =,K =,K =,"K =
+mE 3m–2 mE 3(m–2)",3,1,
+*The ratio of bulk modulus to Young’s modulus for a Poisson’s ratio of 0,,,1,3 3 2,1,1,
+"When a cube is subjected to three mutually perpendicular tensile stresses of equal intensity (), the
+volumetric strain is
+3 2 E  2 32  E 2 ",1 –,1 –,– 1,"– 1
+E  m 3 m E m  3m ",0,1,
+"The relation between modulus of elasticity (E) and modulus of rigidity C is given by
+m E 2(m + 1) 2mE m + 1",C =,C =,C =,"C =
+2 (m+1) mE m+1 2mE",0,1,
+The maximum shear stress developed in a beam of circular section is,equal to,times,1.5 times,"twice
+3",1,1,
+"The relation between Young’s modulus (E), shear modulus c and bulk modulus (Kk) is given by
+3K",E =,E =,E =,"E =
+3K + C 3K + C 3K + C 3K + C",2,1,
+*The ratio of shear modulus to the modulus of elasticity for a Poisson’s ratio of 0,,,,7 5 14 5,2,1,
+"If the modulus of elasticity for a given material is twice its modulus of rigidity, then bulk modulus is equal to
+2C 3C",2C,3C,,3 2,2,1,
+"The modulus of rigidity
+of the material is",30GPa,50GPa,80GPa,"100GPa
+Structural Mechanics",1,1,
+"A section of beam is said to be in pure bending, if it is subjected to :",constant bending moment and constant Shear force,constant shear force and zero bending moment,constant bending moment and zero shear force,none of the above,2,1,
+"Within elastic limit, shear stress is",equal to,less than,directly proportional to,inversely proportional to,2,1,
+Shear modulus is the ratio of,linear stress to linear strain,linear stress to lateral strain,volumetric strain to linear strain,shear stress to shear strain,0,1,
+A localized compressive stress at the area of contact between two members is known as,tensile stress,bending stress,crushing stress,"shear stress
+Note: If bearing stress is available in option, select that one.",2,1,
+A beam which is fixed at one end and free at the other is called,simply supported beam,fixed beam,overhanging beam,cantilever beam,3,1,
+"The maximum diameter of the hole that can be punched from a plate of maximum shear stress 1/4th
+of its maximum crushing stress of punch, is equal to",t,2t,4t,"8t
+where t = Thickness of the plate.",2,1,
+A fletched beam is used to,change the shape of the beam,effect the saving on material,equalize the strength in tension and compression,increase the cross-section of the beam,2,1,
+"Whenever some external system of forces acts on a body, it undergoes some deformation",strain,stress,pressure,modulus of elasticity,1,1,
+"In a beam subjected to pure bending, the intensity of stress in any fiber is",equal to,less than,more than,directly proportional to,3,1,
+The bending moment at the free end of a cantilever beam is,zero,minimum,maximum,Negligible,0,1,
+"When a body is subjected to a direct tensile stress in one plane, then maximum normal stress occurs
+at a section inclined at",0°,30°,45°,9°,0,1,
+The external indeterminacy in a two hinged arch is,4,3,2,1,3,1,
+A body is subjected to a direct tensile stress in one plane,45° and 90°,45° and 135°,60° and 150°,"30° and 135°
+530 A Quick Reference Book for CIVIL ENGINEERING LICENSING EXAMINATION",1,1,
+"When a body is subjected to direct tensile stress in one plane, the maximum shear stress is",equal to,one-half,two-third,twice,1,1,
+Principal plane is a plane on which the shear stress is,zero,minimum,maximum,Any of these,0,1,
+"For a beam, as shown in Figure below, when the load W is applied in the center of the beam, the
+maximum deflection is
+Wl3 5W l3",,"48 EI 384 EI
+W l3 W l3",,192 EI 384 EI,0,1,
+A beam of the triangular section is placed with its base horizontal,apex of the triangle,mid of the height,center of gravity of the triangle,base of the triangle,1,1,
+*The neutral axis of the cross-section a beam is that axis at which the bending stress is,zero,minimum,maximum,infinity,0,1,
+"*A body is subjected to a direct tensile stress of 300 MPa in one plane accompanied by a simple
+shear stress of 200",–100 MPa,250MPa,300MPa,400MPa,3,1,
+"The section modulus (Z) of a beam is given by
+I y M",,Ly,,y I I,0,1,
+"The ratio of maximum shear stress developed in a rectangular beam and a circular beam of the same
+cross-sectional area is
+2 3 9",,,1,3 4 8,3,1,
+The bending stress in a beam is,directly proportional to,inversely proportional to,equal to,square of,1,1,
+The maximum shear stress developed in a beam of rectangular section is,equal to,times,1.5 times,"twice
+3",2,1,
+"At the neutral axis of a beam, the shear stress is",zero,minimum,maximum,infinity,2,1,
+"*A body is subjected to a tensile stress of 1200 MPa on one plane and another tensile stress of 600
+MPa one plane at right angles to the former",400 MPa,500MPa,900MPa,1400MPa,3,1,
+The stress developed in the material without any permanent set is called a,elastic limit,yield stress,ultimate stress,breaking stress,0,1,
+A tensile test is performed on a mild steel round bar,remain same,increase,decrease,depend upon rate of loading,2,1,
+"A body is subjected to two normal stresses 20 KN/m2 (tensile) and 10 kN/m2 (compressive) acting
+perpendicular to each other",5kN/m2,10kN/m2,15kN/m2,20kN/m2,2,1,
+"The ratio of stiffness factor of a member when the far end is hinged to the stiffness factor of the
+same member when the far end is fixed
+1 1 1 3",,,,4 3 2 4,1,1,
+A tensile test is performed on a round bar,mild steel,cast iron,glass,"copper
+Structural Mechanics",1,1,
+"The maximum deflection of a cantilever beam of length l with a uniformly distributed load of w per
+unit length is
+W l3 W l3 W l3 W l3",,,,"3EI 8EI 16 EI 48 EI
+where, W = wl",1,1,
+"The maximum deflection of a cantilever beam of length / with a point load W at the free end is
+Wl3 Wl3 W l3 Wl3",,,,3 EI 8EI 16 EI 48 EI,0,1,
+A beam of T-section is subjected to a shear force of F,top of the section,bottom of the section,neutral axis of the section,junction of web and flange,2,1,
+"For a given stress, the ratio of moment of resistance of a beam of square cross-section when placed
+with its two sides horizontal to the moment of resistance with its diagonal horizontal, is",,1,,"2
+2 2",3,1,
+Mohr’s circle is used to determine the stresses on an oblique section of a body subjected to,direct tensile stress in one plane accompanied by a shear stress,direct tensile stress in two mutually perpendicular directions,direct tensile stress in two mutually perpendicular directions accompanied by a simple shear stress,all of the above,3,1,
+Which of the following statement is wrong?,"In the theory of simple bending, the assumption is that the plane sections before bending
+remains plane after bending.","Ina beam subjected to bending moment, the strain is directly proportional to the distance from
+the neutral axis.","At the neutral axis of a beam, the bending stress is maximum.",The bending stress in a beam is inversely proportional to the section modulus.,2,1,
+"A square beam and a circular beam have the same length, same allowable stress and the same
+bending moment",,1,,2 1.12 2,2,1,
+The extremities of any diameter on Mohr’s circle represent,principal stresses,normal stresses on planes at 45°,shear stresses on planes at 45°,normal and shear stresses on a plane,1,1,
+"Two beams, one of circular cross-section and the other of square cross-section, have equal areas of
+cross-sections",both beams are equally economical,square beam is more economical,circular beam is more economical,none of these,1,1,
+The energy stored in a body when strained within elastic limit is known as,resilience,proof resilience,strain energy,impact energy,2,1,
+The total strain energy stored in a body is termed as,resilience,proof resilience,impact energy,modulus of resilience,0,1,
+Strain energy is the,energy stored in a body when strained within elastic limits,energy stored in a body when strained up to the breaking of a specimen,maximum strain energy which can be stored in a body,proof resilience per unit volume of a material,0,1,
+"The strain energy stored in a body, when suddenly loaded, is",equal to,one-half,twice,four times,3,1,
+Resilience is the,energy stored in a body when strained within elastic limits,energy stored in a body when strained upto the breaking of the specimen,maximum strain energy which-can be stored in a body,none of the above,3,1,
+"When a beam is subjected to bending moment, the stress at any point is",equal to,directly proportional to,inversely proportional to,independent of,1,1,
+"In a beam where shear force changes sign, the bending moment will be",zero,minimum,maximum,infinity,2,1,
+The neutral axis of a transverse section of a beam passes through the centre of gravity of the section and is,in the vertical plane,in the horizontal plane,in the same plane in which the beam bends,at right angle to the plane in which the beam bends.,3,1,
+"*The stress induced in a body, when suddenly loaded, is",equal to,one-half,twice,four times,2,1,
+"The strain energy stored in a spring, when subjected to maximum load, without suffering permanent
+distortion, is known as",impact energy,proof resilience,proof stress,modulus of resilience,1,1,
+"The capacity of a strained body for doing work on the removal of the straining force, is called",strain energy,resilience,proof resilience,impact energy,1,1,
+Which of the following statement is correct?,"The energy stored in a body, when strained within elastic limit is known as strain energy.",The maximum strain energy which can be stored in a body is termed as proof resilience.,The proof resilience per unit volume of a material is known as modulus of resilience.,all of the above,3,1,
+"*The strain energy stored in a body due to shear stress, is
+ 2C t2 2C",× V,,× V,"2C tV 2C t2v
+where  = Shear stress,
+C = Shear modulus, and
+V = Volume of the body",2,1,
+A beam of uniform strength may be obtained by,keeping the width uniform and varying the depth,keeping the depth uniform and varying the width,varying the width and depth both,any one of the above,3,1,
+"* If the depth is kept constant for a beam of uniform strength, then its width will vary in proportional to",M,M,M2,"M3
+where M= Bending moment.",0,1,
+A beam extending beyond the supports is called,simply supported beam,fixed beam,overhanging beam,cantilever beam,2,1,
+A beam encastered at both the ends is called,simply supported beam,fixed beam,cantilever beam,"continuous beam
+Structural Mechanics",1,1,
+A beam of uniform strength has,same ‘cross-section throughout the beam,same bending stress at every section,same bending moment at every section,same shear stress at every section,1,1,
+"When the shear force diagram is a parabolic curve between two points, it indicates that there is a",point load at the two points,no loading between the two points,uniformly distributed load between the two points,uniformly varying load between the two points,3,1,
+A continuous beam is one which is,fixed at both ends,fixed at one end and free at the other end,supported on more than two supports,extending beyond the supports,2,1,
+A concentrated load is one which,acts at a point on a beam,spreads non-uniformly over the whole length of a beam,spreads uniformly over the whole length of a beam,varies uniformly over the whole length of a beam,0,1,
+"The bending moment in the centre of a simply supported beam carrying a uniformly distributed load
+of w per unit length is
+wl2 wl2 wl2",zero,,,2 4 8,3,1,
+"A simply supported beam is loaded with w uniformly through out the length of the beam The
+bending moment will be
+wl2 wl2 wl wl2",,,,4 2 4 8,3,1,
+"The bending moment diagram for a simply supported beam carrying a uniformly distributed load of
+w per unit length, will be",a horizontal line,a vertical line,an inclined line,a parabolic curve,3,1,
+"In a simply supported beam carrying a uniformly distributed load w per unit length, the point of contraflexure",lies in the center of the beam,lies at the ends of the beam,depends upon the length of beam,does not exist,3,1,
+A simple supported beam carries a varying load from zero at one end and w at the other end,,,,2 3 3 2,2,1,
+The bending moment on a section is maximum where shear force is,minimum,maximum,changing sign,zero,2,1,
+"When a cantilever beam is loaded at its free end, the maximum compressive stress shall develop at",bottom fiber,top fiber,neutral axis,centre of gravity,0,1,
+"When a load on the free end of a cantilever beam is increased, failure will occur",at the free end,"at the fixed end
+2",in the middle of the beam,"at a distance from free end
+3",1,1,
+A simply supported beam carries varying load from zero at one end and w at the other end,,,,"27 27 27 9 3
+534 A Quick Reference Book for CIVIL ENGINEERING LICENSING EXAMINATION",3,1,
+"The stress at which the extension of the material takes place more quickly as compared to the
+increase in load, is called",elastic limit,yield point,ultimate point,breaking point,1,1,
+"When a cantilever beam is loaded with concentrated loads, the bending moment diagram will be a",horizontal straight line,vertical straight line,inclined straight line,parabolic curve,2,1,
+The point of contra flexure is the point where,B.M. changes sign,B.M. is maximum,B.M. is minimum,B.M. is zero,3,1,
+The shape factor of standard rolled beam section varies from,1.1 to 1.2,1.2 to 1.25,1.3 to 1.45,1.1 to 1.3,0,1,
+The point of contraflexure is the point where,B.M. changes sign,B.M. is maximum,B.M. is minimum,none of the above,0,1,
+"The shear force of a cantilever beam of length l carrying a uniformly distributed load of w per unit
+length is",zero,,,"wl
+4 2",0,1,
+"The ratio of section modulus of a square section of side b and that of a circular section of diameter d is
+2 3 3 ",,,,16 16 8 16,1,1,
+"The shear force diagram of a cantilever beam of length/and carrying a uniformly distributed load of
+w per unit length will be",aright angled triangle,an isosceles triangle,an equilateral triangle,a rectangle,0,1,
+"The bending moment of a cantilever beam of length l and carrying a uniformly distributed load of w
+per unit length is",zero,,,"wl
+4 2",0,1,
+"The shear force and bending moment are zero at the free end of a cantilever beam, if it carries a",point load at the free end,point load at the middle of its length,uniformly distributed load over the whole length,none of the above,2,1,
+"The bending moment of a cantilever beam of length l and carrying a uniformly distributed load of w
+per unit length is",,,wl,4 2 2,0,1,
+"The moment of inertia of a triangular section (height h, base b) about its base is
+bh2 b2h bh3 b3h",,,,12 12 12 12,2,1,
+"The shear force of a cantilever beam of length l and carrying a gradually varying load from zero at
+the free end and w per unit length at the fixed end is",zero,,,"wl
+4 2",2,1,
+"The bending moment of a cantilever beam of length l and carrying a gradually varying load from
+zero at free end and w per unit length at the fixed end is",,wl,,"2 2 6
+Structural Mechanics",3,1,
+"The maximum bending moment of a simply supported beam of span/and carrying a point load W at
+the centre of beam, is
+Wl Wl Wl2",,,Wl,4 2 4,0,1,
+The bending moment diagram for a simply supported beam loaded in its centre is,aright angled triangle,an issoscles triangle,an equilateral triangle,a rectangle,1,1,
+"In a tensile test, when the material is stressed beyond elastic limit, the tensile strain",decreases slowly,increases slowly,decreases more quickly,increases more quickly,3,1,
+The product of Young’s modulus (E) and moment of inertia (l) is known as,modulus of rigidity,bulk modulus,flexural rigidity,torsional rigidity,2,1,
+A bar of square section of area a2 is held such that its one of its diameter is vertical,,,,4 4 3 4,1,1,
+"The shear force in the center of a simply supported beam carrying a fate a uniformly distributed load
+of w per unit length, is
+wl2 wl2 wl",zero,,,"2 4 8
+1 2",0,1,
+"The ratio of the deflections of the free end of a cantilever due to an isolated load at rd and rd of
+3 3
+the span is
+1 2 3 2",,,,7 7 7 5,1,1,
+"The shear force at the ends of a simply supported beam carrying a uniformly distributed load of w
+per unit length is",zero at its both ends,"wl at one end and – wl at the other end
+wl wl wl2 wl2",at one end and – at the other end,"at one end and – at the other end
+2 2 2 2",2,1,
+"The shear force diagram for a simply supported beam carrying a uniformly distributed load of w per
+unit length, consists of",one right angled triangle,two right angled triangles,one equilateral triangle,two equilateral triangles,1,1,
+"The ratio of the maximum deflection of a simply supported beam with central load w and of a
+cantilever of same length and with a load w at its free and is
+1 1 1 1",,,,8 10 12 14,0,1,
+A simply supported beam A carries a point load at its midspan,,,,3 5 2 8,1,1,
+"In a simple bending theory, one of the assumptions is that the material of the beam is isotropic",normal stress remains constant in all directions,normal stress varies linearly in the material,elastic constants are same in all the directions,elastic constants varies linearly in the material,2,1,
+"If the section modulus of a beam is increased, the bending stress in the beam will",not change,increase,decrease,"Remains constant
+536 A Quick Reference Book for CIVIL ENGINEERING LICENSING EXAMINATION",2,1,
+"If percentage reduction in area of a certain specimen made of material ‘A’ under tensile test is 60% and
+‘the percentage reduction in area of a specimen with same dimensions made of material ‘B’ is 40%, then",the material A is more ductile than material B,the material B is more ductile than material A,the ductility of material A and B is equal,the material A is brittle and material B is ductile,0,1,
+"A simply supported beam ‘A’ of length l, breadth b, and depth d carries a central point load W",one-fourth,one-half,double,four times,1,1,
+"A simply supported beam ‘A’ of length l, breadth b and depth d carries a central load W",one-fourth,one-half,double,four times,2,1,
+"The maximum deflection of a fixed beam of length l carrying a total load W uniformly distributed
+over the whole length is
+wl3 wl3 wl3 wl3",,,,48EI 96EI 192EI 384EI,3,1,
+The maximum deflection of a fixed beam carrying a central point load lies at,fixed ends,"centre of beam
+l",from fixed ends,"none of these
+3",1,1,
+The point of contra flexure is a point where,shear force changes sign,bending moment changes sign,shear force is maximum,bending moment is maximum,1,1,
+"When shear force at a point is zero, then bending moment is",zero,minimum,maximum,infinity,2,1,
+A truss containing j joints m members will be a simple truss if,m = 2j–3,j = 2m – 3,m = 3j–2,j = 3m – 2,0,1,
+"When there is a sudden increase or decrease in shear force diagram between any two points, it
+indicates that there is a",point load at the two points,no loading between the two points,uniformly distributed load between the two points,uniformly varying load between the two points,0,1,
+If m and m are the members of two individual simple trusses of a compound truss,m = m + m,m = m + 1,m = m + m + 2,"m = m + m + 3
+1 2 2 1 2 1 2",3,1,
+The forces in the members of a simple trusses may be analysed by,graphical method,method of joints,method of sections,All of above,3,1,
+The section modulus of a circular section about an axis through its C,,,,"
+4 16 16 32",3,1,
+Which of the following statement is correct?,A continuous beam has only two supports at the ends.,A uniformly distributed load spreads uniformly over the whole length of a beam.,The bending moment is maximum where shear force is maximum.,"The maximum bending moment of a simply supported beam of length / with a central point
+load W is Wl/",1,1,
+A rectangular beam of length l supported at its two ends carries a central point load W,at the ends,at l/3 from both ends,at the centre,none of these,2,1,
+"When a beam is Subjected to a bending moment, the strain in a layer is",equal to,directly proportional to,inversely proportional to,"independent of
+Structural Mechanics",1,1,
+"The bending moment at a section tends to bend or deflect the beam and the internal stresses resist its
+bending",compressive stress,shear stress,bending stress,elastic modulus,2,1,
+"The assumption, generally, made in the theory of simple bending is that",the beam material is perfectly homogenous and isotropic,the beam material is stressed within its elastic limit,the plane sections before bending remain plane after bending,all of the above,3,1,
+"If D and d are external and internal diameters of circular shaft respectively, its polar moment of
+inertia is
+   ",(D4 – d4),(D4 – d4),(D4 – d4),"(D4 – d4)
+2 4 64 32",3,1,
+"In a simple bending of beams, the stress in the beam varies",linearly,d. parabolically,hyperbolically,elliptically,0,1,
